@@ -5,18 +5,25 @@ layout: single
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+**젤리곰은 이렇게 살아왔어요** <br />
+<br />
+느리지만 천천히, 그렇지만 확실하게, <br /> 최고가 아닌 최선을 다해 살아가고 있어요 :) <br />
+어때요, 이 정도면 꽤 열심히 살지 않았나요?
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+## 학력
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+- 잠일고등학교 졸업 (2013-2016)
+- 종로산업정보학교 중퇴 (2015)
+- 숭실대학교 전산원 모바일컨텐츠 공학 중퇴 (2016)
+- 평생교육원 정보통신공학 학사 (2016-2018)
+- 한성대학교 컴퓨터공학 학사 (2018-2022)
 
-## Notable Features
+## 병역
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
+- 사이버작전사령부 SW개발병(현 연구개발지원병) <br />육군 병장 만기 전역 (2018-2020)
+
+## 경력
+
 - Several responsive layout options (single, archive index, search, splash, and paginated home page).
 - Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
 - Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
